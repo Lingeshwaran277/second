@@ -1,1 +1,4 @@
-print("33333")
+import tkinter
+app=tkinter.Tk
+
+app.mainloop()
